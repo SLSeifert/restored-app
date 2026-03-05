@@ -17,7 +17,7 @@ const posts = [
   },
   {
     id: 2,
-    author: "Elloise",
+    author: "Eloise",
     content: "Woof.",
     likes: 1000,
     replies: [],
