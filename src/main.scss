@@ -1,0 +1,13 @@
+// 1. Essential: Functions (required for color manipulation)
+@import "bootstrap/scss/functions";
+
+// 2. Essential: Variables (this defines $blue, $primary, etc.)
+@import "bootstrap/scss/variables";
+
+// 3. Optional: Maps (required if you want to use map-get)
+@import "bootstrap/scss/maps";
+
+.title-text {
+    color: $orange-500;
+}
+
