@@ -1,16 +1,11 @@
-import posts from "./postData";
-import Post from "./Post";
+import PostsList from "./PostsList";
+import ContentCard from "./features/content/ContentCard";
 import './main.scss';
 
 function App() {
   return (
     <div>
-      <h1 className="text-center title-text">
-        Restored Workshop Message Board
-      </h1>
-      {posts.map((post) => (
-        <Post post={post}></Post>
-      ))}
+      <ContentCard />
     </div>
   );
 }
