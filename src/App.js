@@ -1,11 +1,10 @@
-import PostsList from "./PostsList";
-import ContentCard from "./features/content/ContentCard";
+import { ContentList } from "./features/content/ContentList";
 import './main.scss';
 
 function App() {
   return (
     <div>
-      <ContentCard />
+      <ContentList />
     </div>
   );
 }

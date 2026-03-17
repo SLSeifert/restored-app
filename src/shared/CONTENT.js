@@ -4,6 +4,7 @@ const CONTENT = [
     date: "Jan 13 - Jan 19",
     title: "Week 1: Placeholder Title",
     video: require("../assets/videos/placeholder.mp4"),
+    thumbnail: require("../assets/images/thumbnail.jpg"),
     reading: "pp. 1-20",
   },
   {
@@ -11,6 +12,7 @@ const CONTENT = [
     date: "Jan 20 - Jan 26",
     title: "Week 2: Placeholder Title",
     video: require("../assets/videos/placeholder.mp4"),
+    thumbnail: require("../assets/images/thumbnail.jpg"),
     reading: "pp. 21-40",
   },
   {
@@ -18,6 +20,7 @@ const CONTENT = [
     date: "Jan 27 - Feb 2",
     title: "Week 3: Placeholder Title",
     video: require("../assets/videos/placeholder.mp4"),
+    thumbnail: require("../assets/images/thumbnail.jpg"),
     reading: "pp. 41-60",
   },
   {
@@ -25,6 +28,7 @@ const CONTENT = [
     date: "Feb 3 - Feb 9",
     title: "Week 4: Placeholder Title",
     video: require("../assets/videos/placeholder.mp4"),
+    thumbnail: require("../assets/images/thumbnail.jpg"),
     reading: "pp. 61-80",
   },
   {
@@ -32,6 +36,7 @@ const CONTENT = [
     date: "Feb 10 - Feb 16",
     title: "Week 5: Placeholder Title",
     video: require("../assets/videos/placeholder.mp4"),
+    thumbnail: require("../assets/images/thumbnail.jpg"),
     reading: "pp. 81-100",
   },
   {
@@ -39,6 +44,7 @@ const CONTENT = [
     date: "Feb 17 - Feb 23",
     title: "Week 6: Placeholder Title",
     video: require("../assets/videos/placeholder.mp4"),
+    thumbnail: require("../assets/images/thumbnail.jpg"),
     reading: "pp. 101-120",
   },
   {
@@ -46,6 +52,7 @@ const CONTENT = [
     date: "Feb 24 - Mar 2",
     title: "Week 7: Placeholder Title",
     video: require("../assets/videos/placeholder.mp4"),
+    thumbnail: require("../assets/images/thumbnail.jpg"),
     reading: "pp. 121-140",
   },
   {
@@ -53,6 +60,7 @@ const CONTENT = [
     date: "Mar 3 - Mar 9",
     title: "Week 8: Placeholder Title",
     video: require("../assets/videos/placeholder.mp4"),
+    thumbnail: require("../assets/images/thumbnail.jpg"),
     reading: "pp. 141-160",
   },
   {
@@ -60,6 +68,7 @@ const CONTENT = [
     date: "Mar 10 - Mar 16",
     title: "Week 9: Placeholder Title",
     video: require("../assets/videos/placeholder.mp4"),
+    thumbnail: require("../assets/images/thumbnail.jpg"),
     reading: "pp. 161-180",
   },
   {
@@ -67,6 +76,7 @@ const CONTENT = [
     date: "Mar 17 - Mar 23",
     title: "Week 10: Placeholder Title",
     video: require("../assets/videos/placeholder.mp4"),
+    thumbnail: require("../assets/images/thumbnail.jpg"),
     reading: "pp. 181-200",
   },
   {
@@ -74,6 +84,7 @@ const CONTENT = [
     date: "Mar 24 - Mar 30",
     title: "Week 11: Placeholder Title",
     video: require("../assets/videos/placeholder.mp4"),
+    thumbnail: require("../assets/images/thumbnail.jpg"),
     reading: "pp. 201-220",
   },
   {
@@ -81,6 +92,7 @@ const CONTENT = [
     date: "Mar 31 - Apr 6",
     title: "Week 12: Placeholder Title",
     video: require("../assets/videos/placeholder.mp4"),
+    thumbnail: require("../assets/images/thumbnail.jpg"),
     reading: "pp. 221-240",
   },
   {
@@ -88,6 +100,7 @@ const CONTENT = [
     date: "Apr 7 - Apr 13",
     title: "Week 13: Placeholder Title",
     video: require("../assets/videos/placeholder.mp4"),
+    thumbnail: require("../assets/images/thumbnail.jpg"),
     reading: "pp. 241-260",
   },
 ];
