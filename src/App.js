@@ -1,10 +1,10 @@
-import { ContentList } from "./features/content/ContentList";
 import './main.scss';
+import ContentPage from "./pages/ContentPage";
 
 function App() {
   return (
     <div>
-      <ContentList />
+      <ContentPage />
     </div>
   );
 }
